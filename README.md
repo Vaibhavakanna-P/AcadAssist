@@ -350,9 +350,9 @@ npm start
 
 | Name | Role |
 |------|------|
-| **Vaibhavakanna P** | Full Stack Developer |
+| **Vaibhavakanna P** | Frontend Developer |
 | Vishnu Prasanth K | ML Engineer |
-| Vaishnavi K | Frontend Developer |
+| Vaishnavi K | Full Stack Developer |
 | Vignesh Kumar S | Backend Developer |
 
 **Mentor:** Dr. K.C. Rajheshwari, Associate Professor/CSE
