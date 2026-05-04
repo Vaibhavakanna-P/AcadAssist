@@ -1,0 +1,16 @@
+CS301 - QUICK REFERENCE GUIDE
+
+TIME COMPLEXITIES:
+Array Access: O(1) | Search: O(n) | Insert: O(n) | Delete: O(n)
+Linked List Access: O(n) | Search: O(n) | Insert: O(1) | Delete: O(1)
+Stack Push/Pop: O(1) | Queue Enqueue/Dequeue: O(1)
+BST: Search O(log n) | Insert O(log n) | Delete O(log n)
+Binary Search: O(log n) | Linear Search: O(n)
+Quick Sort: O(n log n) avg | Merge Sort: O(n log n) | Bubble Sort: O(n^2)
+
+KEY CONCEPTS:
+Stack = LIFO (Last In First Out)
+Queue = FIFO (First In First Out)
+BST: Left < Parent < Right
+AVL: Self-balancing BST, balance factor -1, 0, or 1
+Hashing: Key -> Hash Function -> Array Index

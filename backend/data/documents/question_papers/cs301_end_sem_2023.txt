@@ -1,0 +1,40 @@
+CS301 - DATA STRUCTURES AND ALGORITHMS
+END SEMESTER EXAMINATION - DECEMBER 2023
+Duration: 3 Hours | Maximum Marks: 100
+
+PART A (10 x 2 = 20 Marks)
+Answer ALL questions:
+
+1. Define Abstract Data Type (ADT) with an example.
+2. What is the time complexity of binary search?
+3. Differentiate between stack and queue.
+4. What is a binary search tree?
+5. Define collision in hashing.
+6. What is the advantage of a doubly linked list over a singly linked list?
+7. Write the applications of graph data structure.
+8. What is an AVL tree? What are rotations?
+9. Define priority queue.
+10. What is the difference between BFS and DFS?
+
+PART B (5 x 1 = 5 Marks)
+11. Explain the different types of linked lists with diagrams.
+12. Write an algorithm for Quick Sort and analyze its time complexity.
+13. Explain expression evaluation using stack with an example.
+14. Describe Prim's algorithm for Minimum Spanning Tree.
+15. Explain the different tree traversal techniques with examples.
+
+PART C (3 x 10 = 30 Marks)
+16. (a) Explain the various collision resolution techniques in hashing in detail. (OR)
+    (b) Write detailed notes on graph representation and shortest path algorithms.
+
+17. (a) Explain AVL trees with rotation operations and examples. (OR)
+    (b) Describe Merge Sort algorithm and derive its time complexity.
+
+18. (a) Write detailed notes on Binary Search Trees with insertion and deletion. (OR)
+    (b) Explain Priority Queue implementation and its applications.
+
+PART D (2 x 15 = 30 Marks)
+19. Design an algorithm to detect a cycle in a linked list. Explain with example.
+20. Implement a stack using two queues. Write the complete pseudo code.
+
+BEST OF LUCK!

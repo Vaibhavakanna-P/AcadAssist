@@ -1,0 +1,59 @@
+CS301 - DATA STRUCTURES AND ALGORITHMS
+Department of Computer Science - Semester 3
+Course Code: CS301 | Credits: 4 | Hours/Week: 5
+
+COURSE OBJECTIVES:
+- Understand fundamental data structures and their applications
+- Analyze time and space complexity of algorithms
+- Design efficient algorithms for problem-solving
+- Implement data structures using Python/C++
+
+UNIT 1: INTRODUCTION (10 Hours)
+1.1 Abstract Data Types (ADTs)
+1.2 Time and Space Complexity Analysis
+1.3 Asymptotic Notations: Big O, Omega, Theta
+1.4 Best, Worst, and Average Case Analysis
+1.5 Recursion and Iteration
+
+UNIT 2: LINEAR DATA STRUCTURES (12 Hours)
+2.1 Arrays: 1D, 2D, Multi-dimensional
+2.2 Singly Linked Lists: Creation, Insertion, Deletion, Traversal
+2.3 Doubly Linked Lists and Circular Linked Lists
+2.4 Stack: Push, Pop, Peek operations
+2.5 Applications: Expression Evaluation, Parenthesis Matching
+2.6 Queue: Enqueue, Dequeue, Circular Queue
+2.7 Priority Queue and Deque
+
+UNIT 3: TREES (12 Hours)
+3.1 Tree Terminology and Properties
+3.2 Binary Trees and Binary Search Trees (BST)
+3.3 Tree Traversals: Inorder, Preorder, Postorder
+3.4 AVL Trees: Rotations and Balancing
+3.5 Heap: Min-Heap and Max-Heap
+3.6 Huffman Coding
+
+UNIT 4: GRAPHS (10 Hours)
+4.1 Graph Representation: Adjacency Matrix, Adjacency List
+4.2 Breadth-First Search (BFS)
+4.3 Depth-First Search (DFS)
+4.4 Shortest Path: Dijkstra's Algorithm
+4.5 Minimum Spanning Tree: Prim's and Kruskal's Algorithm
+
+UNIT 5: SORTING AND SEARCHING (8 Hours)
+5.1 Bubble Sort, Selection Sort, Insertion Sort
+5.2 Quick Sort and Merge Sort
+5.3 Linear Search and Binary Search
+5.4 Hashing: Hash Functions, Collision Resolution
+
+TEXTBOOKS:
+1. "Data Structures and Algorithms in Python" - Goodrich, Tamassia
+2. "Introduction to Algorithms" - Cormen, Leiserson, Rivest
+
+REFERENCE BOOKS:
+1. "Data Structures Using C" - Reema Thareja
+2. "Algorithms" - Robert Sedgewick
+
+ASSESSMENT:
+- Internal Assessment: 30% (Assignments 15% + Mid-term 15%)
+- End Semester Exam: 70%
+- Minimum Passing: 40%

@@ -1,0 +1,42 @@
+{
+  "short_name": "SmartPortal",
+  "name": "Smart Academic Portal - AI Powered Learning",
+  "description": "AI-Powered Academic Assistant with LLM, Question Generator, and Live Discussions",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["education", "productivity"],
+  "shortcuts": [
+    {
+      "name": "AI Chatbot",
+      "short_name": "Chat",
+      "description": "Ask AI Assistant",
+      "url": "/chatbot"
+    },
+    {
+      "name": "Generate Questions",
+      "short_name": "Questions",
+      "description": "Generate practice questions",
+      "url": "/generate"
+    }
+  ]
+}

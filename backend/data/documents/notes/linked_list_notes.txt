@@ -1,0 +1,56 @@
+LINKED LISTS - COMPLETE STUDY NOTES
+
+WHAT IS A LINKED LIST?
+A linked list is a linear data structure where elements are stored in nodes. Each node contains data and a pointer/reference to the next node. Unlike arrays, linked lists don't store elements in contiguous memory locations.
+
+TYPES OF LINKED LISTS:
+
+1. SINGLY LINKED LIST
+- Each node has data and a pointer to the next node
+- Last node points to NULL
+- Only forward traversal is possible
+
+Structure:
+[Data|Next] -> [Data|Next] -> [Data|Next] -> NULL
+
+Operations:
+- Insert at beginning: O(1)
+- Insert at end: O(n)
+- Delete from beginning: O(1)
+- Delete from end: O(n)
+- Search: O(n)
+
+2. DOUBLY LINKED LIST
+- Each node has data, pointer to next, AND pointer to previous
+- Bidirectional traversal possible
+
+Structure:
+NULL <- [Prev|Data|Next] <-> [Prev|Data|Next] <-> [Prev|Data|Next] -> NULL
+
+Operations:
+- Insert at beginning: O(1)
+- Insert at end: O(1) with tail pointer
+- Delete from beginning: O(1)
+- Delete from end: O(1) with tail pointer
+
+3. CIRCULAR LINKED LIST
+- Last node points back to the first node
+- No NULL termination
+- Can traverse entire list from any node
+
+ADVANTAGES OVER ARRAYS:
+- Dynamic size - can grow/shrink
+- Easy insertion/deletion
+- No memory wastage
+
+DISADVANTAGES:
+- No random access
+- Extra memory for pointers
+- Not cache-friendly
+
+TIME COMPLEXITY COMPARISON:
+Operation    Array    Linked List
+Access       O(1)     O(n)
+Search       O(n)     O(n)
+Insert       O(n)     O(1)
+Delete       O(n)     O(1)

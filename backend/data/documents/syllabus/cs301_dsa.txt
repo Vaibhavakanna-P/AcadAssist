@@ -1,0 +1,38 @@
+CS301 - Data Structures and Algorithms Syllabus
+Semester 3, Computer Science Department
+
+Unit 1: Introduction to Data Structures (2 weeks)
+- Definition and classification of data structures
+- Abstract Data Types (ADTs)
+- Time and Space complexity analysis
+- Big O, Omega, Theta notations
+
+Unit 2: Arrays and Linked Lists (3 weeks)
+- One-dimensional and multi-dimensional arrays
+- Singly linked lists - insertion, deletion, traversal
+- Doubly linked lists
+- Circular linked lists
+- Comparison of arrays vs linked lists
+
+Unit 3: Stacks and Queues (2 weeks)
+- Stack operations (push, pop, peek)
+- Applications: Expression evaluation, Parenthesis matching
+- Queue operations (enqueue, dequeue)
+- Circular Queue, Priority Queue
+- Applications: BFS, Job scheduling
+
+Unit 4: Trees (3 weeks)
+- Binary Trees - properties and types
+- Binary Search Trees (BST)
+- Tree traversals (Inorder, Preorder, Postorder)
+- AVL Trees and balancing
+- Heap data structure
+
+Unit 5: Graphs (2 weeks)
+- Graph representation (Adjacency Matrix, List)
+- BFS and DFS traversal
+- Shortest path algorithms
+- Minimum Spanning Tree
+
+Textbook: "Data Structures and Algorithms in Python" by Goodrich
+Exam: 30% Internal + 70% End Semester

@@ -1,0 +1,19 @@
+CS301 - Data Structures - Sample Questions
+
+2 MARK QUESTIONS:
+1. Define Abstract Data Type (ADT)
+2. What is time complexity? Give an example
+3. Differentiate between stack and queue
+4. What is a binary search tree?
+5. Define graph and its types
+
+5 MARK QUESTIONS:
+1. Explain the different types of linked lists with diagrams
+2. Write an algorithm for binary search and analyze its complexity
+3. Explain stack operations with an example of expression evaluation
+4. Describe BFS traversal with an example graph
+
+10 MARK QUESTIONS:
+1. Explain the various tree traversals with examples
+2. Write detailed notes on sorting algorithms
+3. Discuss graph representation methods and shortest path algorithms

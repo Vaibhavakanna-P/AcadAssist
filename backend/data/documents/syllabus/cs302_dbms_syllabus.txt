@@ -1,0 +1,36 @@
+CS302 - DATABASE MANAGEMENT SYSTEMS
+Department of Computer Science - Semester 3
+Course Code: CS302 | Credits: 3 | Hours/Week: 4
+
+UNIT 1: INTRODUCTION TO DBMS (8 Hours)
+1.1 Database Concepts and Architecture
+1.2 Data Models: Hierarchical, Network, Relational
+1.3 Entity-Relationship (ER) Diagrams
+1.4 Keys: Primary, Foreign, Candidate, Super Key
+1.5 Normalization: 1NF, 2NF, 3NF, BCNF
+
+UNIT 2: SQL AND QUERIES (10 Hours)
+2.1 SQL Commands: DDL, DML, DCL
+2.2 CREATE, INSERT, UPDATE, DELETE statements
+2.3 SELECT queries with WHERE, GROUP BY, HAVING
+2.4 JOIN operations: INNER, LEFT, RIGHT, FULL
+2.5 Aggregate Functions: COUNT, SUM, AVG, MAX, MIN
+2.6 Subqueries and Nested Queries
+
+UNIT 3: TRANSACTIONS AND CONCURRENCY (10 Hours)
+3.1 ACID Properties
+3.2 Transaction States
+3.3 Serializability
+3.4 Locking Mechanisms
+3.5 Deadlock Detection and Prevention
+
+UNIT 4: INDEXING AND STORAGE (8 Hours)
+4.1 B-Tree and B+ Tree Indexing
+4.2 Hash-Based Indexing
+4.3 File Organization
+4.4 Query Optimization
+
+ASSESSMENT:
+- Internal: 30% (Lab 15% + Mid-term 15%)
+- External: 70%
+- Minimum Passing: 40%

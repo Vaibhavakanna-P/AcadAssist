@@ -1,0 +1,51 @@
+SQL COMMANDS - QUICK REFERENCE GUIDE
+
+DDL (Data Definition Language):
+- CREATE: Creates a new table/database
+  CREATE TABLE students (id INT, name VARCHAR(50), grade CHAR(1));
+  
+- ALTER: Modifies existing table structure
+  ALTER TABLE students ADD COLUMN email VARCHAR(100);
+  
+- DROP: Deletes a table/database
+  DROP TABLE students;
+  
+- TRUNCATE: Removes all rows from table
+  TRUNCATE TABLE students;
+
+DML (Data Manipulation Language):
+- INSERT: Adds new records
+  INSERT INTO students VALUES (1, 'John', 'A');
+  INSERT INTO students (id, name) VALUES (2, 'Jane');
+  
+- UPDATE: Modifies existing records
+  UPDATE students SET grade = 'B' WHERE id = 1;
+  
+- DELETE: Removes records
+  DELETE FROM students WHERE id = 2;
+
+DQL (Data Query Language):
+- SELECT: Retrieves data
+  SELECT * FROM students;
+  SELECT name, grade FROM students WHERE grade = 'A';
+  SELECT COUNT(*) FROM students GROUP BY grade;
+  SELECT * FROM students ORDER BY name ASC;
+
+JOINS:
+- INNER JOIN: Returns matching rows from both tables
+  SELECT * FROM students INNER JOIN courses ON students.course_id = courses.id;
+  
+- LEFT JOIN: Returns all rows from left table
+  SELECT * FROM students LEFT JOIN courses ON students.course_id = courses.id;
+  
+- RIGHT JOIN: Returns all rows from right table
+  SELECT * FROM students RIGHT JOIN courses ON students.course_id = courses.id;
+
+AGGREGATE FUNCTIONS:
+- COUNT(): Counts rows
+- SUM(): Calculates total
+- AVG(): Calculates average
+- MAX(): Finds maximum value
+- MIN(): Finds minimum value
+
+Example: SELECT AVG(grade) FROM students WHERE course = 'CS301';

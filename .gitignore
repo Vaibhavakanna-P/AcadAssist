@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+npm-debug.log*
+build/
+.env.local
+
+# Models (too large for GitHub)
+*.gguf
+*.bin
+*.safetensors
+backend/data/models/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

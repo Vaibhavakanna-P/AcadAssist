@@ -1,0 +1,31 @@
+Algorithm Analysis and Design - Key Concepts
+
+1. TIME COMPLEXITY
+Time complexity measures how long an algorithm takes to run as input size grows.
+Common complexities:
+- O(1): Constant time (array access)
+- O(log n): Logarithmic (binary search)
+- O(n): Linear (linear search)
+- O(n log n): Linearithmic (merge sort, quick sort)
+- O(n^2): Quadratic (bubble sort)
+- O(2^n): Exponential (recursive fibonacci)
+
+2. SORTING ALGORITHMS
+Quick Sort: Divide and conquer, average O(n log n)
+- Picks a pivot element
+- Partitions array around pivot
+- Recursively sorts sub-arrays
+
+Merge Sort: Divide and conquer, stable O(n log n)
+- Divides array into halves
+- Recursively sorts halves
+- Merges sorted halves
+
+3. SEARCHING ALGORITHMS
+Linear Search: O(n), works on unsorted arrays
+Binary Search: O(log n), requires sorted array
+
+4. RECURSION
+- Function calls itself
+- Base case to stop recursion
+- Used in tree traversals, divide and conquer algorithms
