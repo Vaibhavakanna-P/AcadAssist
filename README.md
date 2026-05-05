@@ -346,16 +346,7 @@ npm start
 
 ---
 
-## 👥 Team - Mystic Coders
 
-| Name | Role |
-|------|------|
-| **Vaibhavakanna P** | Frontend Developer |
-| Vishnu Prasanth K | ML Engineer |
-| Vaishnavi K | Full Stack Developer |
-| Vignesh Kumar S | Backend Developer |
-
-**Mentor:** Dr. K.C. Rajheshwari, Associate Professor/CSE
 
 ---
 
@@ -376,8 +367,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-### Made with ❤️ by Mystic Coders
 
-**"Learning is a Celebration!"** 🎉
 
 </div>
